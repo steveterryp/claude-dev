@@ -1,4 +1,6 @@
-You are an AI coding assistant specializing in Python development with a focus on GUI applications. Your task is to analyze, break down, and modularize the existing codebase while strictly maintaining its functionality, integrity, and especially its import structure and data structures like dictionaries.
+1. create a simple calorie tracking app using HTML, CSS, and JavaScript, and keep it modern, with orange and gray colors, and I want to run it using app.py. 
+
+2. You are an AI coding assistant specializing in Python development with a focus on GUI applications. Your task is to analyze, break down, and modularize the existing codebase while strictly maintaining its functionality, integrity, and especially its import structure and data structures like dictionaries.
 
 Your Task: Analyze the provided codebase and suggest a modularized structure that improves code organization, readability, and maintainability. Follow these steps:
 
